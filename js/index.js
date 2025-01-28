@@ -100,7 +100,7 @@ function initializeApp() {
       console.error(`Error loading ${language}.json:`, error);
     }
   }
-
+   
   async function changeLanguage() {
     const dropdown = document.getElementById("language-dropdown");
     if (!dropdown) return;
