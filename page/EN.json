@@ -1,12 +1,12 @@
 {
   "headerTitle": "Osint.AI",
   "notesSectionTitle": "Notes",
-  "notesSectionContent": "Osint.AI is focused on securing information from free tools or resources. The intention is to help people find free OSINT resources. (This site also has paid options).",
+  "notesSectionContent": "Osint.AI is focused on securing information from free tools or resources. The intention is to help people find free OSINT resources. (This site also has paid options for those who want a better experience).",
   "updatesSectionTitle": "For Update Notifications",
   "updatesSectionContent": "Follow me on Twitter: ",
   "feedbackSectionTitle": "Suggestions, Comments, Feedback",
   "feedbackSectionContent": "Feedback and tool suggestions are welcome! Feel free to reach out on Twitter or submit an issue on GitHub.",
-  "footerContent": "This project is an adaptation of Osintframework.com, developed by @jnordine.",
+  "footerContent": "Credits: This project is an adaptation of Osintframework.com, developed by @jnordine.",
   "legend": [
     { "symbol": "(C)", "description": "This tool can only be used upon payment" },
     { "symbol": "(D)", "description": "Google Dork: <a href='https://en.wikipedia.org/wiki/Google_Hacking'>Google Hacking</a>" },
