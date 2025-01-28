@@ -3,11 +3,11 @@
     "type": "folder",
     "children": [
     {
-      "name": "Username",
+      "name": "Nomes de Usuário",
       "type": "folder",
       "children": [
       {
-        "name": "Username Search Engines",
+        "name": "Mecanismos de pesquisa de nome de usuário",
         "type": "folder",
         "children": [
         {
@@ -87,57 +87,57 @@
         }]
       },
       {
-        "name": "Google Dorks for Username",
+        "name": "Google Dorks para Nomes de Usuário",
         "type": "folder",
         "children": [
           {
-            "name": "Instagram Username (D / M)",
+            "name": "Instagram (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Ainstagram.com+intext%3A%22%40username%22"
           },
           {
-            "name": "LinkedIn Username (D / M)",
+            "name": "LinkedIn (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Alinkedin.com+inurl%3Ain+intext%3Ausername"
           },
           {
-            "name": "Youtube Username (D / M)",
+            "name": "Youtube (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Ayoutube.com+inurl%3Achannel+intext%3Ausername"
           },
           {
-            "name": "Github Username (D / M)",
+            "name": "Github (D / M)",
             "type": "url",
             "url:": "https://www.google.com/search?q=site%3Agithub.com+inurl%3Ausername+-inurl%3Adocs"
           },
           {
-            "name": "X / Twitter Username (D / M)",
+            "name": "X / Twitter (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Atwitter.com+intext%3A%22%40username%22"
           },
           {
-            "name": "Linktree Username (D / M)",
+            "name": "Linktree (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Alinktr.ee+intext%3Ausername+-inurl%3Ahelp"
           },
           {
-            "name": "Steam Username (D / M)",
+            "name": "Steam (D / M)",
             "type": "url",
             "url": "https://www.google.com/search?q=site%3Asteamcommunity.com+inurl%3Aid+intext%3AUsername"
           }
         ]
       },
       {
-        "name": "Specific Sites",
+        "name": "Sites especificos",
         "type": "folder",
         "children": [
         {
-          "name": "Github User (M)",
+          "name": "Github User API (M)",
           "type": "url",
           "url": "https://api.github.com/users/%3Cusername%3E/events/public"
         },
         {
-          "name": "Tinder Usernames (M)",
+          "name": "Tinder (M)",
           "type": "url",
           "url": "https://www.gotinder.com/@%3Cusername%3E"
         },
@@ -154,27 +154,27 @@
       }]
     },
     {
-      "name": "Email Address",
+      "name": "Endereço de email",
       "type": "folder",
       "children": [
       {
-        "name": "Email Search",
+        "name": "Pesquisa de e-mail",
         "type": "folder",
         "children": [
+        {
+            "name": "Huntter.is (C)",
+            "type": "url",
+            "url": "https://huntter.is/"
+        },
+        {
+            "name": "Hunter",
+            "type": "url",
+            "url": "https://hunter.io/"
+        },
         {
           "name": "ThatsThem",
           "type": "url",
           "url": "https://thatsthem.com/reverse-email-lookup"
-        },
-        {
-          "name": "Hunter",
-          "type": "url",
-          "url": "https://hunter.io/"
-        },
-        {
-            "name": "Huntter (C)",
-            "type": "url",
-            "url": "https://huntter.is/"
         },
         {
           "name": "Email to Address (R)",
@@ -228,7 +228,7 @@
         }]
       },
       {
-        "name": "Common Email Formats",
+        "name": "Formatos de e-mail comuns",
         "type": "folder",
         "children": [
         {
@@ -253,7 +253,7 @@
         }]
       },
       {
-        "name": "Email Verification",
+        "name": "Verificação de e-mail",
         "type": "folder",
         "children": [
         {
@@ -288,7 +288,7 @@
         }]
       },
       {
-        "name": "Breach Data",
+        "name": "Dados vazados",
         "type": "folder",
         "children": [
         {
@@ -324,11 +324,11 @@
       }]
     },
     {
-      "name": "Domain Name",
+      "name": "Nome de domínio",
       "type": "folder",
       "children": [
       {
-        "name": "Whois Records",
+        "name": "Registros Whois",
         "type": "folder",
         "children": [
         {
@@ -347,7 +347,7 @@
           "url": "http://whois.domaintools.com/"
         },
         {
-          "name": "Domain Big Data.",
+          "name": "Domain Big Data",
           "type": "url",
           "url": "http://domainbigdata.com/"
         },
@@ -412,13 +412,18 @@
           "url": "http://www.dailychanges.com/"
         },
         {
+            "name": "Registro.br Whois",
+            "type": "url",
+            "url": "https://registro.br/tecnologia/ferramentas/whois/"
+        },
+        {
           "name": "IP2WHOIS",
           "type": "url",
           "url": "https://www.ip2whois.com"
         }]
       },
       {
-        "name": "Subdomains",
+        "name": "Subdomínios",
         "type": "folder",
         "children": [
           {
@@ -518,7 +523,7 @@
         }]
       },
       {
-        "name": "Discovery",
+        "name": "Encontrar",
         "type": "folder",
         "children": [
         {
@@ -578,7 +583,7 @@
         }]
       },
       {
-        "name": "Certificate Search",
+        "name": "Pesquisa de certificado",
         "type": "folder",
         "children": [
         {
@@ -613,7 +618,7 @@
         }]
       },
       {
-        "name": "PassiveDNS",
+        "name": "DNS passivo",
         "type": "folder",
         "children": [
         {
@@ -649,7 +654,7 @@
       },
     
       {
-        "name": "Reputation",
+        "name": "Reputação",
         "type": "folder",
         "children": [
         {
@@ -774,7 +779,7 @@
         }]
       },
       {
-        "name": "Domain Blacklists",
+        "name": "BlackList de Domínio",
         "type": "folder",
         "children": [
         {
@@ -854,7 +859,7 @@
         }]
       },
       {
-        "name": "Typosquatting",
+        "name": "Sequestro de URL",
         "type": "folder",
         "children": [
         {
@@ -879,7 +884,7 @@
         }]
       },
       {
-        "name": "Analytics",
+        "name": "Análises",
         "type": "folder",
         "children": [
         {
@@ -1024,7 +1029,7 @@
         }]
       },
       {
-        "name": "URL Expanders",
+        "name": "Expansores de URL",
         "type": "folder",
         "children": [
         {
@@ -1069,7 +1074,7 @@
         }]
       },
       {
-        "name": "Change Detection",
+        "name": "Detecção de alterações",
         "type": "folder",
         "children": [
         {
@@ -1109,7 +1114,7 @@
         }]
       },
       {
-        "name": "Social Analysis",
+        "name": "Análise Social",
         "type": "folder",
         "children": [
         {
@@ -1139,7 +1144,7 @@
         }]
       },
       {
-        "name": "Cloud Resources",
+        "name": "Recursos em nuvem",
         "type": "folder",
         "children": [
         {
@@ -1164,7 +1169,7 @@
         }]
       },
       {
-        "name": "Vulnerabilities",
+        "name": "Vulnerabilidades",
         "type": "folder",
         "children": [
         {
@@ -1183,7 +1188,7 @@
           }]
         },
         {
-          "name": "Disclosure Sites",
+          "name": "Sites de divulgação",
           "type": "folder",
           "children": [
           {
@@ -1204,7 +1209,7 @@
         }]
       },
       {
-        "name": "Tools",
+        "name": "Ferramentas",
         "type": "folder",
         "children": [
         {
@@ -1249,7 +1254,7 @@
         }]
       },  
       {
-        "name": "Report Malicious Sites",
+        "name": "Denunciar sites maliciosos",
         "type": "folder",
         "children": [
         {
@@ -1261,15 +1266,20 @@
           "name": "Google",
           "type": "url",
           "url": "https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en"
+        },
+        {
+            "name": "Hostinger",
+            "type": "url",
+            "url": "https://www.hostinger.com.br/denunciar-abuso"
         }]
       }]
     },
     {
-      "name": "IP & MAC Address",
+      "name": "IP & Endereço MAC",
       "type": "folder",
       "children": [
       {
-        "name": "Geolocation",
+        "name": "Geolocalização",
         "type": "folder",
         "children": [
         {
@@ -1329,7 +1339,7 @@
         }]
       },
       {
-        "name": "Host / Port Discovery",
+        "name": "Host / Descobrir Portas",
         "type": "folder",
         "children": [
         {
@@ -1494,7 +1504,7 @@
         }]
       },
       {
-        "name": "Reputation",
+        "name": "Reputação",
         "type": "folder",
         "children": [
         {
