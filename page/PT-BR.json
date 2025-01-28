@@ -1,0 +1,20 @@
+
+  
+  {
+    "headerTitle": "Osint.AI",
+    "notesSectionTitle": "Notas",
+    "notesSectionContent": "Osint.AI é focado em garantir informações a partir de ferramentas ou recursos gratuitos. A intenção é ajudar as pessoas a encontrar recursos OSINT gratuitos. (Neste site também possui opções pagas).",
+    "updatesSectionTitle": "Para Notificações de Atualizações",
+    "updatesSectionContent": "Me Siga no Twitter:",
+    "feedbackSectionTitle": "Sugestões, Comentarios, Feedback",
+    "feedbackSectionContent": "Comentários e sugestões de ferramentas são bem-vindos! Sinta-se à vontade para entrar em contato no Twitter ou enviar um problema no GitHub.",
+    "footerContent": "Este projeto é uma adaptação do Osintframework.com, desenvolvida por @jnordine",
+    "legend": [
+      { "symbol": "(C)", "description": "Esta ferramenta só pode ser realizado mediante a pagamento" },
+      { "symbol": "(D)", "description": "Google Dork: <a href='https://pt.wikipedia.org/wiki/Google_Hacking'>Google Hacking</a>" },
+      { "symbol": "(M)", "description": "O URL contém o termo de pesquisa e deve ser editado manualmente." },
+      { "symbol": "(T)", "description": "Ferramenta que deve ser instalada e executada localmente." },
+      { "symbol": "(R)", "description": "Requer Registro." }
+    ]
+  }
+  
