@@ -5292,7 +5292,7 @@
           "type": "folder",
           "children": [
           {
-            "name": "Social Networking",
+            "name": "Social Newtorking",
             "type": "folder",
             "children": [
             {
@@ -5306,7 +5306,7 @@
               "url": "https://play.google.com/store/apps/details?id=com.linkedin.android"
             },
             {
-              "name": "Twitter (T)",
+              "name": "X / Twitter (T)",
               "type": "url",
               "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
             },
@@ -5341,24 +5341,24 @@
               "url": "https://play.google.com/store/apps/details?id=com.snapchat.android"
             },
             {
-              "name": "WhatsApp Messenger (T)",
-              "type": "url",
-              "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
-            },
-            {
               "name": "Kik (T)",
               "type": "url",
               "url": "https://play.google.com/store/apps/details?id=kik.android"
             },
             {
-              "name": "Yik Yak (T)",
-              "type": "url",
-              "url": "https://play.google.com/store/apps/details?id=com.yik.yak"
-            },
-            {
               "name": "LINE (T)",
               "type": "url",
               "url": "https://play.google.com/store/apps/details?id=jp.naver.line.android"
+            },
+            {
+              "name": "WhatsApp Messenger (T)",
+              "type": "url",
+              "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+            },
+            {
+              "name": "Yik Yak (T)",
+              "type": "url",
+              "url": "https://play.google.com/store/apps/details?id=com.yik.yak"
             }]
           },
           {
@@ -6690,6 +6690,11 @@
           "name": "Generated Photos",
           "type": "url",
           "url": "https://generated.photos/"
+        },
+        {
+          "name": "Username Generator",
+          "type": "url",
+          "url": "https://usernamegenerator.com/"
         }]
       },
       {
