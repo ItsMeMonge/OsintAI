@@ -20,7 +20,7 @@
 }
 
 body {
-  background: linear-gradient(50deg, #03001f, #03000e);
+  background: linear-gradient(50deg, #03002f, #030000);
   color: var(--text-color);
   font-family: 'Montserrat', sans-serif;
   font-size: clamp(14px, 2vw, 16px);
@@ -88,7 +88,7 @@ body {
   position: fixed;
   top: 20px;
   right: 20px;
-  background-color: rgb(0 13 43 / 30%);
+  background-color: rgb(0 13 43 / 40%);
   padding: clamp(8px, 2vw, 12px) clamp(12px, 3vw, 20px);
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
@@ -229,7 +229,7 @@ a:hover::after {
   top: 95px;
   right: 20px;
   width: min(280px, 90%);
-  background: rgb(0 13 43 / 30%);
+  background: rgb(0 13 43 / 40%);
   padding: clamp(12px, 2vw, 15px);
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
@@ -238,7 +238,7 @@ a:hover::after {
   transition: var(--transition);
   z-index: 1000;
   backdrop-filter: blur(10px);
-  border: 2px solid rgba(2, 0, 19, 0.568);
+  border: 2px solid rgba(255, 255, 255, 0.068);
   color: #ffffff;
 }
 
@@ -271,7 +271,7 @@ a:hover::after {
 .drop-button {
   background-color: rgb(16 16 30 / 95%);
   color: #ffffff;
-  border: 2px solid rgba(2, 0, 19, 0.568);
+  border: 2px solid rgba(4, 0, 37, 0.658);
   padding: clamp(10px, 2vw, 12px) clamp(15px, 3vw, 20px);
   margin: 5px;
   width: auto;
