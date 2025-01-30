@@ -88,9 +88,9 @@ body {
   position: fixed;
   top: 20px;
   right: 20px;
-  background-color: rgba(26, 26, 26, 0.95);
+  background-color: rgb(0 13 43 / 30%);
   padding: clamp(8px, 2vw, 12px) clamp(12px, 3vw, 20px);
-  border-radius: 12px;
+  border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
   font-size: clamp(14px, 2vw, 16px);
   font-weight: 600;
@@ -229,9 +229,9 @@ a:hover::after {
   top: 95px;
   right: 20px;
   width: min(280px, 90%);
-  background: rgba(38, 38, 38, 0.98);
+  background: rgb(0 13 43 / 30%);
   padding: clamp(12px, 2vw, 15px);
-  border-radius: 12px;
+  border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
   font-size: clamp(13px, 2vw, 14px);
   line-height: 1.6;
