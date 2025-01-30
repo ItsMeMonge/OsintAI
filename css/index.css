@@ -9,7 +9,7 @@
 }
 
 :root {
-  --primary-color: #00bfff;
+  --primary-color: #0793bd;
   --secondary-color: #1e90ff;
   --bg-color: #090909;
   --text-color: #f0f0f0;
@@ -20,7 +20,7 @@
 }
 
 body {
-  background-color: var(--bg-color);
+  background: linear-gradient(50deg, #03001f, #03000e);
   color: var(--text-color);
   font-family: 'Montserrat', sans-serif;
   font-size: clamp(14px, 2vw, 16px);
@@ -60,7 +60,7 @@ body {
   color: var(--primary-color);
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.8);
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.8);
   transition: var(--transition);
   background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
   -webkit-background-clip: text;
@@ -269,16 +269,17 @@ a:hover::after {
 }
 
 .drop-button {
-  background-color: rgba(38, 38, 38, 0.95);
+  background-color: rgb(16 16 30 / 95%);
   color: #ffffff;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.1);
   padding: clamp(10px, 2vw, 12px) clamp(15px, 3vw, 20px);
   margin: 5px;
   width: auto;
   text-align: left;
   font-size: clamp(13px, 2.5vw, 16px);
+  backdrop-filter: blur(10px);
   font-weight: 600;
-  border-radius: 12px;
+  border-radius: 8px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -413,4 +414,14 @@ a:hover::after {
 #language-dropdown:focus-visible {
   outline: 3px solid var(--focus-outline-color);
   outline-offset: 2px;
+}
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background: transparent;
 }

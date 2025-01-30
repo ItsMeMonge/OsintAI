@@ -21,6 +21,7 @@
 </head>
 
 <body>
+  <div id="particles-js"></div>
   <header id="header">
     <h1 id="header-title">Osint.AI</h1>
     <hr />
@@ -63,5 +64,11 @@
   <footer>
     <p class="disclaimer" id="footer-section-content"></p>
   </footer>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script>
+    particlesJS.load('particles-js', 'assets/particles.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
+  </script>
 </body>
 </html>
