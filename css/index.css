@@ -102,7 +102,7 @@ body {
   z-index: 1000;
   backdrop-filter: blur(10px);
   transition: var(--transition);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.068);
 }
 
 #language-dropdown {
@@ -238,7 +238,7 @@ a:hover::after {
   transition: var(--transition);
   z-index: 1000;
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(2, 0, 19, 0.568);
   color: #ffffff;
 }
 
@@ -271,7 +271,7 @@ a:hover::after {
 .drop-button {
   background-color: rgb(16 16 30 / 95%);
   color: #ffffff;
-  border: 2px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(2, 0, 19, 0.568);
   padding: clamp(10px, 2vw, 12px) clamp(15px, 3vw, 20px);
   margin: 5px;
   width: auto;
