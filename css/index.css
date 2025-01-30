@@ -380,7 +380,7 @@ a:hover::after {
 
 @media (max-width: 480px) {
   .drop-button {
-    width: 100%;
+    width: auto;
     font-size: clamp(12px, 3vw, 13px);
   }
   
