@@ -30,8 +30,8 @@ function createDropTable(data, parentElement, isRoot = false) {
 
   if (data.type === "url") {
     folderButton.classList.add("url");
-    folderButton.title = "Click to open link";
-    
+    folderButton.title = data.url;
+
     folderButton.addEventListener("click", (e) => {
       e.preventDefault();
       if (data.url) {

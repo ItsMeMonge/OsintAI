@@ -13,12 +13,13 @@
   <link rel="stylesheet" href="css/index.css">
   <link rel="shortcut icon" href="/img/OsintAI.png" type="image/x-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
 
   <script src="js/d3.v3.min.js" defer></script>
-  <script src="js/index.js" defer></script>
   <script src="js/search.js" defer></script>
+  <script src="js/index.js" defer></script>
 </head>
 
 <body>
@@ -27,7 +28,7 @@
     <h1 id="header-title">Osint.AI</h1>
     <hr />
   </header>
-
+  
   <main>
     <section id="language-selector" role="region" aria-label="Language Selector">
       <label for="language-dropdown">Select Language:</label>
@@ -36,7 +37,7 @@
         <option disabled value="Undefined">Português (PT-BR) - Em breve</option>
       </select>
     </section>
-    
+
     <div class="search-container">
       <input type="text" id="search-input" placeholder="Pesquisar..." oninput="searchTree()">
     </div>
