@@ -18,6 +18,7 @@
 
   <script src="js/d3.v3.min.js" defer></script>
   <script src="js/index.js" defer></script>
+  <script src="js/search.js" defer></script>
 </head>
 
 <body>
@@ -35,7 +36,12 @@
         <option disabled value="Undefined">Português (PT-BR) - Em breve</option>
       </select>
     </section>
-
+    
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Pesquisar..." oninput="searchTree()">
+    </div>
+    
+    <p id="TreeSearchResult"></p>
     <section id="tree-container" role="region" aria-label="Interactive OSINT Framework Tree">
     </section>
 

@@ -11,6 +11,7 @@ This project is an adaptation and enhancement of [Osintframework.com](https://os
 - Interactive tree-based navigation for intuitive resource exploration
 - Comprehensive categorization of OSINT resources and tools
 - Multi-language support (English, Portuguese coming soon)
+- Integrated search bar for fast and precise resource discovery 🔍
 - Mobile-responsive design for on-the-go research
 - Easy-to-use interface with clear visual hierarchy
 - Regular updates to maintain resource relevance

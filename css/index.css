@@ -320,6 +320,54 @@ a:hover::after {
   display: block;
 }
 
+/* Barra de Pesquisa */
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: clamp(15px, 3vw, 20px);
+}
+
+#search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: clamp(10px, 2vw, 12px) clamp(15px, 3vw, 20px);
+  font-size: clamp(13px, 2.5vw, 16px);
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  background-color: rgb(16 16 30 / 95%);
+  border: 2px solid rgba(4, 0, 37, 0.658);
+  border-radius: 8px;
+  backdrop-filter: blur(10px);
+  font-weight: 600;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+#search-input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+}
+
+#search-input:focus {
+  border-color: var(--secondary-color);
+  background-color: rgba(20, 20, 40, 0.9);
+  box-shadow: 0 0 10px var(--secondary-color);
+}
+
+#search-input:hover {
+  background-color: rgba(20, 20, 40, 0.9);
+  border-color: var(--hover-bg-color);
+}
+
+#TreeSearchResult {
+  text-align: center;
+  font-size: 2vh;
+  margin-top: 15px;
+}
+
 /* Animações */
 @keyframes fadeIn {
   from { 
