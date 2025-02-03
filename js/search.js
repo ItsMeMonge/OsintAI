@@ -11,8 +11,7 @@ function searchTree() {
         const nodeText = button.innerText.toLowerCase();
 
         if (searchTerm && nodeText.includes(searchTerm)) {
-            button.style.backgroundColor = "#005590";
-            button.style.color = "white"
+            button.style.backgroundColor = "rgb(21 28 74 / 50%)";
             node.style.display = "block";
             expandParents(node);
             if (sublist) sublist.style.display = "block";
