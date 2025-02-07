@@ -5689,6 +5689,22 @@
           "type": "folder",
           "children": [
             {
+              "name": "Academic Information",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Search Lattes CV",
+                  "type": "url",
+                  "url": "https://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar"
+                },
+                {
+                  "name": "Search for Information from Higher Education Institutions",
+                  "type": "url",
+                  "url": "https://emec.mec.gov.br/emec/nova#avancada"
+                }
+              ]
+            },
+            {
               "name": "Business",
               "type": "folder",
               "children": [
@@ -6145,7 +6161,293 @@
                   "url": "https://servicos.pc.sc.gov.br/antena/"
                 }
               ]
-            }
+            },
+            {
+              "name": "Maps & Georeferencing",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Satellite Images via INPE",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Catálogo de Mapas INPE",
+                      "type": "url",
+                      "url": "http://www.dgi.inpe.br/catalogo/"
+                    },
+                    {
+                      "name": "Sistema de Informações Geográficas - CPTEC",
+                      "type": "url",
+                      "url": "http://sigma.cptec.inpe.br/"
+                    },
+                    {
+                      "name": "Sistema SIGMA 2 - CPTEC",
+                      "type": "url",
+                      "url": "http://sigma2.cptec.inpe.br/"
+                    },
+                    {
+                      "name": "Radar Meteorológico - CPTEC",
+                      "type": "url",
+                      "url": "http://sigma.cptec.inpe.br/radar/"
+                    },
+                    {
+                      "name": "Precipitação por Satélite - CPTEC",
+                      "type": "url",
+                      "url": "http://sigma.cptec.inpe.br/prec_sat/"
+                    },
+                    {
+                      "name": "Monitoramento de Tempestades - ForTraCC",
+                      "type": "url",
+                      "url": "http://sigma.cptec.inpe.br/fortracc/"
+                    },
+                    {
+                      "name": "Monitoramento de Ventos - CPTEC",
+                      "type": "url",
+                      "url": "http://satelite.cptec.inpe.br/vento/"
+                    },
+                    {
+                      "name": "Radiação Solar - CPTEC",
+                      "type": "url",
+                      "url": "http://satelite.cptec.inpe.br/radiacao/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Monitoring Deforestation and Fires",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Alertas de Desmatamento - TerraBrasilis",
+                      "type": "url",
+                      "url": "http://terrabrasilis.dpi.inpe.br/app/map/alerts?hl=pt-br"
+                    },
+                    {
+                      "name": "Monitoramento do Desmatamento - TerraBrasilis",
+                      "type": "url",
+                      "url": "http://terrabrasilis.dpi.inpe.br/app/map/deforestation?hl=pt-br"
+                    },
+                    {
+                      "name": "Banco de Dados de Queimadas - INPE",
+                      "type": "url",
+                      "url": "https://queimadas.dgi.inpe.br/queimadas/bdqueimadas"
+                    },
+                    {
+                      "name": "Situação Atual das Queimadas - INPE",
+                      "type": "url",
+                      "url": "https://queimadas.dgi.inpe.br/queimadas/portal-static/situacao-atual/"
+                    },
+                    {
+                      "name": "Vídeo Aulas sobre Queimadas - INPE",
+                      "type": "url",
+                      "url": "https://queimadas.dgi.inpe.br/queimadas/portal/videoaulas"
+                    },
+                    {
+                      "name": "Mapas Mensais de Queimadas",
+                      "type": "url",
+                      "url": "https://queimadas.dgi.inpe.br/queimadas/mapas-mensais/"
+                    },
+                    {
+                      "name": "Dados de Satélite para Monitoramento Ambiental",
+                      "type": "url",
+                      "url": "https://www.cptec.inpe.br/dsat/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Other Georeferencing Tools",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Exploração de Catálogos - INPE",
+                      "type": "url",
+                      "url": "http://www2.dgi.inpe.br/catalogo/explore"
+                    },
+                    {
+                      "name": "MapSat - Monitoramento Ambiental por Satélite",
+                      "type": "url",
+                      "url": "http://satelite.cptec.inpe.br/mapsat/"
+                    },
+                    {
+                      "name": "SOS Chuva - Monitoramento de Chuvas",
+                      "type": "url",
+                      "url": "http://sigma-soschuva.cptec.inpe.br/#"
+                    },
+                    {
+                      "name": "Portal de Mapas do Instituto Socioambiental",
+                      "type": "url",
+                      "url": "http://mapas.sosma.org.br/"
+                    },
+                    {
+                      "name": "Sistema WebElat - Monitoramento de Raios",
+                      "type": "url",
+                      "url": "http://www.inpe.br/webelat/homepage"
+                    }
+                  ]
+                },
+                {
+                  "name": "ArcGIS Platforms",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Mapa Interativo - Áreas de Queimadas (ArcGIS)",
+                      "type": "url",
+                      "url": "https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Farcgis.sema.df.gov.br%2Fserver%2Frest%2Fservices%2FAreas_Queimadas%2FMapServer&source=sd"
+                    },
+                    {
+                      "name": "Servidor ArcGIS - Áreas de Queimadas",
+                      "type": "url",
+                      "url": "https://arcgis.sema.df.gov.br/server/rest/services/Areas_Queimadas/MapServer"
+                    }
+                  ]
+                },
+                {
+                  "name": "National Rural Environmental Registration System (SICAR-CAR)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Consulta de Imóveis Rurais",
+                      "type": "url",
+                      "url": "https://www.car.gov.br/publico/imoveis/index"
+                    },
+                    {
+                      "name": "Consulta Geral - SICAR",
+                      "type": "url",
+                      "url": "https://www.car.gov.br/#/consultar"
+                    }
+                  ]
+                },
+                {
+                  "name": "Institute of National Historical and Artistic Heritage (IPHAN)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Pesquisa de Patrimônio Cultural - SICG",
+                      "type": "url",
+                      "url": "https://sicg.iphan.gov.br/sicg/pesquisarBem"
+                    }
+                  ]
+                },
+                {
+                  "name": "Aeronautics Command Meteorology Network (REDEMET)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Portal REDEMET",
+                      "type": "url",
+                      "url": "https://redemet.decea.gov.br/#"
+                    },
+                    {
+                      "name": "Novo Portal REDEMET",
+                      "type": "url",
+                      "url": "https://redemet.decea.gov.br/novo/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Army Geographic Database (BDGEx)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Sistema BDGEx Mobile",
+                      "type": "url",
+                      "url": "https://bdgex.eb.mil.br/bdgexapp/mobile/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Aircraft Radar",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "RadarBox - Rastreamento de Aeronaves",
+                      "type": "url",
+                      "url": "https://www.radarbox.com/@-19.21547,-46.45469,z5"
+                    },
+                    {
+                      "name": "FlightRadar24 - Rastreamento Global",
+                      "type": "url",
+                      "url": "https://www.flightradar24.com/-18.82,-52.19/5"
+                    },
+                    {
+                      "name": "Radar de Voos - eDestinos",
+                      "type": "url",
+                      "url": "https://www.edestinos.com.br/radar"
+                    },
+                    {
+                      "name": "PlaneFinder - Aeroporto BSB",
+                      "type": "url",
+                      "url": "https://planefinder.net/airport/BSB"
+                    }
+                  ]
+                },
+                {
+                  "name": "Aeronautical License Consultation (CHT)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "ANAC License Consultation",
+                      "type": "url",
+                      "url": "https://sistemas.anac.gov.br/consultadelicencas/"
+                    },
+                    {
+                      "name": "Consulta Lichab - AIS Cavok",
+                      "type": "url",
+                      "url": "https://ais.cavok.in/lichab/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cities and States - IBGE",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Consulta de Dados por Cidade e Estado",
+                      "type": "url",
+                      "url": "https://www.ibge.gov.br/cidades-e-estados/"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Health",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "National Registry of Health Establishments (CNES)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "CNES - Portal de Estabelecimentos",
+                      "type": "url",
+                      "url": "https://cnes.datasus.gov.br/"
+                    }
+                  ]
+                },
+                {
+                  "name": "National Health Fund (FNS)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Consulta FNS Consolidada",
+                      "type": "url",
+                      "url": "https://consultafns.saude.gov.br/#/consolidada"
+                    }
+                  ]
+                },
+                {
+                  "name": "DATASUS Portal",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "DATASUS - Sistema de Informações em Saúde",
+                      "type": "url",
+                      "url": "http://www2.datasus.gov.br/DATASUS/index.php"
+                    }
+                  ]
+                }
+              ]
+            }            
         ]}
       ]
     },
