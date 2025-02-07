@@ -6083,6 +6083,68 @@
                   "url": "https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp"
                 }
               ]
+            },
+            {
+              "name": "Radio Station",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Anatel",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Lista Estações",
+                      "type": "url",
+                      "url": "https://sistemas.anatel.gov.br/stel/consultas/ListaEstacoesLocalidade/tela.asp?pNumServico=010"
+                    },
+                    {
+                      "name": "Licenciamento",
+                      "type": "url",
+                      "url": "http://sistemas.anatel.gov.br/se/public/view/b/licenciamento.php"
+                    },
+                    {
+                      "name": "Serviço Movel Web",
+                      "type": "url",
+                      "url": "http://sistemas.anatel.gov.br/siec-servico-movel-web/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Mapa - Sinal 3G",
+                  "type": "url",
+                  "url": "https://www.google.com/maps/d/viewer?msa=0&mid=1Xh8EWBDY97vtLnEYuAVLvRGvu2o&ll=-23.112873703005672%2C-46.55418801617909&z=13"
+                },
+                {
+                  "name": "TelecoCare",
+                  "type": "url",
+                  "url": "http://www.telecocare.com.br/telebrasil/mapa_erb.php"
+                },
+                {
+                  "name": "Teleco",
+                  "type": "url",
+                  "url": "https://www.teleco.com.br/erb.asp"
+                },
+                {
+                  "name": "Cobertura Celular",
+                  "type": "url",
+                  "url": "http://www.coberturacelular.com.br/"
+                },
+                {
+                  "name": "Conexis",
+                  "type": "url",
+                  "url": "https://conexis.org.br/numeros/mapa-de-antenas-2/"
+                },
+                {
+                  "name": "Gov.br - Data (R)",
+                  "type": "url",
+                  "url": "https://dados.gov.br/dataset?tags=ERB"
+                },
+                {
+                  "name": "Serviços PC SC",
+                  "type": "url",
+                  "url": "https://servicos.pc.sc.gov.br/antena/"
+                }
+              ]
             }
         ]}
       ]
