@@ -5681,6 +5681,413 @@
       }]
     },
     {
+      "name": "Countries OSINT",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Brazil",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Business",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Search Data Using CNPJ",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Brazil CNPJ",
+                      "type": "url",
+                      "url": "https://brasilcnpj.net/"
+                    },
+                    {
+                      "name": "CNPJ.biz",
+                      "type": "url",
+                      "url": "https://cnpj.biz/"
+                    },
+                    {
+                      "name": "CNPJ.rocks",
+                      "type": "url",
+                      "url": "https://cnpjs.rocks/"
+                    },
+                    {
+                      "name": "Cadastro Empresa",
+                      "type": "url",
+                      "url": "https://cadastroempresa.com.br/"
+                    },
+                    {
+                      "name": "Casa Dos Dados",
+                      "type": "url",
+                      "url": "https://casadosdados.com.br/"
+                    },
+                    {
+                      "name": "Informe Cadastral",
+                      "type": "url",
+                      "url": "https://www.informecadastral.com.br/"
+                    },
+                    {
+                      "name": "Receita Fazenda",
+                      "type": "url",
+                      "url": "http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp"
+                    },
+                    {
+                      "name": "Simples Nacional (Receita Fazenda)",
+                      "type": "url",
+                      "url": "http://www8.receita.fazenda.gov.br/simplesnacional/aplicacoes.aspx?id=21"
+                    },
+                    {
+                      "name": "Situação Cadastral",
+                      "type": "url",
+                      "url": "https://www.situacaocadastral.info/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Search Name Using CPF/CNPJ",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Situação Cadastral",
+                      "type": "url",
+                      "url": "https://www.situacao-cadastral.com/"
+                    },
+                    {
+                      "name": "Certidão Eletrônica de Ações Trabalhistas - CEAT",
+                      "type": "url",
+                      "url": "https://sistemas.trt3.jus.br/certidao/feitosTrabalhistas/aba1.emissao.htm"
+                    }
+                  ]
+                },
+                {
+                  "name": "Criminal History Consultation",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Antecedentes Policia Civil",
+                      "type": "url",
+                      "url": "https://antecedentes.policiacivil.pa.gov.br/consulta"
+                    }
+                  ]
+                },
+                {
+                  "name": "IBGE Interviewer Consultation",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Respondendo IBGE",
+                      "type": "url",
+                      "url": "https://respondendo.ibge.gov.br/verifique-a-identidade-do-entrevistador.html"
+                    },
+                    {
+                      "name": "IGBE.gov.br",
+                      "type": "url",
+                      "url": "https://www.ibge.gov.br/acesso-informacao/institucional/documentos-ibge/1861-novo-portal/institucional/17422-servidores.html"
+                    }
+                  ]
+                },
+                {
+                  "name": "Declaration of Simples Nacional",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "DASN SIMEI",
+                      "type": "url",
+                      "url": "http://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/dasnsimei.app/Default.aspx"
+                    },
+                    {
+                      "name": "Simples Nacional",
+                      "type": "url",
+                      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/controleAcesso/Autentica.aspx?id=16"
+                    }
+                  ]
+                },
+                {
+                  "name": "CNPJ Data - Tools",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Sr Watson",
+                      "type": "url",
+                      "url": "https://srwatson.io"
+                    },
+                    {
+                      "name": "RedeCNPJ",
+                      "type": "url",
+                      "url": "https://www.redecnpj.com.br/"
+                    },
+                    {
+                      "name": "CPF-tools (T)",
+                      "type": "url",
+                      "url": "https://github.com/fernandobortotti/CPF-Tools"
+                    }
+                  ]
+                },
+                {
+                  "name": "Consult the National Register of Lawyers (CNA)",
+                  "type": "url",
+                  "url": "https://cna.oab.org.br"
+                },
+                {
+                  "name": "Consultation Federal Council of Medicine (CFM)",
+                  "type": "url",
+                  "url": "https://portal.cfm.org.br/busca-medicos/"
+                },
+                {
+                  "name": "Consultation Federal Psychology Council (CFP)",
+                  "type": "url",
+                  "url": "https://cadastro.cfp.org.br"
+                },
+                {
+                  "name": "Federal Council of Engineering and Agronomy (Confea)",
+                  "type": "url",
+                  "url": "https://consultaprofissional.confea.org.br"
+                },
+                {
+                  "name": "Consultation Communication of Application/Benefit Decision",
+                  "type": "url",
+                  "url": "https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER"
+                },
+                {
+                  "name": "Consultation with the Commercial Board of the State of São Paulo (Jucesp) (M)",
+                  "type": "url",
+                  "url": "https://www.jucesponline.sp.gov.br/Pre_Visualiza.aspx?nire={VALOR}&idproduto="
+                },
+                {
+                  "name": "Income Tax Refund Consultation",
+                  "type": "url",
+                  "url": "http://solucoes.receita.fazenda.gov.br/Servicos/ConsRest/Atual.app/paginas/mobile/restituicaoMobi.asp"
+                },
+                {
+                  "name": "MEI consultation",
+                  "type": "url",
+                  "url": "http://www22.receita.fazenda.gov.br/inscricaomei/private/pages/certificado_acesso.jsf"
+                }
+              ]
+            },
+            {
+              "name": "Social benefits",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Amounts Receivable",
+                  "type": "url",
+                  "url": "https://valoresareceber.bcb.gov.br/publico/"
+                }
+              ]
+            },
+            {
+              "name": "Missing Persons",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "General Database - SP",
+                  "type": "url",
+                  "url": "https://www.ssp.sp.gov.br/servicos/desaparecidos"
+                },
+                {
+                  "name": "Scientific Police Database",
+                  "type": "url",
+                  "url": "https://www.policiacientifica.sp.gov.br/iml/consultadesaparecidos"
+                }
+              ]},
+            {
+              "name": "Process Consultation",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "TJ Portals",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "TJAC",
+                      "type": "url",
+                      "url": "https://esaj.tjac.jus.br/esaj/portal.do?servico=190090#"
+                    },
+                    {
+                      "name": "TJBA",
+                      "type": "url",
+                      "url": "https://www.tjba.jus.br/portal/busca-resultado/#"
+                    },
+                    {
+                      "name": "TJCE",
+                      "type": "url",
+                      "url": "https://esaj.tjce.jus.br/esaj/portal.do?servico=190090#"
+                    },
+                    {
+                      "name": "TJSC",
+                      "type": "url",
+                      "url": "https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090#"
+                    },
+                    {
+                      "name": "TJSP",
+                      "type": "url",
+                      "url": "https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090#"
+                    },
+                    {
+                      "name": "TJAM",
+                      "type": "url",
+                      "url": "http://esaj.tjam.jus.br/esaj/portal.do?servico=190090#"
+                    },
+                    {
+                      "name": "TJCE",
+                      "type": "url",
+                      "url": "http://esaj.tjce.jus.br/esaj/portal.do?servico=190090#"
+                    }
+                  ]
+                },
+                {
+                  "name": "Federal Regional Court Portals (TRF)",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "TRF1",
+                      "type": "url",
+                      "url": "https://portal.trf1.jus.br"
+                    },
+                    {
+                      "name": "TRF2",
+                      "type": "url",
+                      "url": "https://portal.trf2.jus.br"
+                    },
+                    {
+                      "name": "TRF5",
+                      "type": "url",
+                      "url": "https://portal.trf5.jus.br"
+                    }
+                  ]
+                },
+                {
+                  "name": "National Arrest Warrant Bank",
+                  "type": "url",
+                  "url": "https://portalbnmp.cnj.jus.br/#/pesquisa-peca#"
+                },
+                {
+                  "name": "JusBrasil",
+                  "type": "url",
+                  "url": "https://www.jusbrasil.com.br/"
+                },
+                {
+                  "name": "Escavador",
+                  "type": "url",
+                  "url": "https://www.escavador.com/"
+                },
+                {
+                  "name": "Publique-se",
+                  "type": "url",
+                  "url": "https://www.publique-se.org.br/"
+                }
+              ]
+            },
+            {
+              "name": "Telecom",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "DDD",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "WikiPedia - DDD",
+                      "type": "url",
+                      "url": "https://pt.wikipedia.org/wiki/Discagem_direta_a_dist%C3%A2ncia"
+                    },
+                    {
+                      "name": "Onde fica o DDD?",
+                      "type": "url",
+                      "url": "https://www.mbi.com.br/mbi/biblioteca/utilidades/estado-onde-fica-ddd/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Operator Consultation",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Consulta Numero",
+                      "type": "url",
+                      "url": "https://consultanumero.info/"
+                    },
+                    {
+                      "name": "Qual Operadora",
+                      "type": "url",
+                      "url": "https://www.qualoperadora.net/"
+                    },
+                    {
+                      "name": "Consulta Operadora",
+                      "type": "url",
+                      "url": "http://consultaoperadora.com.br/site2015/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Operator Coverage Maps",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Coverage Map - Vivo",
+                      "type": "url",
+                      "url": "https://mapadecobertura.vivo.com.br/"
+                    },
+                    {
+                      "name": "Coverage Map - Claro",
+                      "type": "url",
+                      "url": "https://www.claro.com.br/mapa-de-cobertura"
+                    },
+                    {
+                      "name": "Coverage Map - Tim",
+                      "type": "url",
+                      "url": "https://www.tim.com.br/para-voce/cobertura-e-roaming/mapa-de-cobertura"
+                    },
+                    {
+                      "name": "Coverage Map - OI",
+                      "type": "url",
+                      "url": "https://www.oi.com.br/portal-oi-cobertura/"
+                    }
+                  ]
+                },
+                {
+                  "name": "Radio",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Radio amador",
+                      "type": "url",
+                      "url": "https://araf.org.br/anatel-links-rapidos"
+                    },
+                    {
+                      "name": "Consult and identify Radio Frequencies",
+                      "type": "url",
+                      "url": "https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896"
+                    }
+                  ]
+                },
+                {
+                  "name": "Dono Do Zap",
+                  "type": "url",
+                  "url": "https://donodozap.com"
+                },
+                {
+                  "name": "Cadastro Pre",
+                  "type": "url",
+                  "url": "https://cadastropre.com.br/#/consulta"
+                },
+                {
+                  "name": "Base De Orelhão X Map",
+                  "type": "url",
+                  "url": "http://sistemas.anatel.gov.br/sgmu/fiqueligado/tups.asp"
+                },
+                {
+                  "name": "Consult person responsible for a call sign",
+                  "type": "url",
+                  "url": "https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp"
+                }
+              ]
+            }
+        ]}
+      ]
+    },
+    {
       "name": "Classifieds",
       "type": "folder",
       "children": [
