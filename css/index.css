@@ -65,7 +65,7 @@ body {
   background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #00fff385;
 }
 
 #header h1:hover {
