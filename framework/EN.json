@@ -412,6 +412,11 @@
           "url": "http://www.dailychanges.com/"
         },
         {
+          "name": "Registro.br",
+          "type": "url",
+          "url": "https://registro.br/tecnologia/ferramentas/whois/"
+        },
+        {
           "name": "IP2WHOIS",
           "type": "url",
           "url": "https://www.ip2whois.com"
@@ -6447,7 +6452,87 @@
                   ]
                 }
               ]
-            }            
+            },
+            {
+              "name": "Google Hacking",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "DataLeak/SQL",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "SQL Search on .com.br (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=site%3Acom.br+ext%3Asql+%22CREATE+TABLE%22###"
+                    },
+                    {
+                      "name": "PhpMyAdmin exposed pages on .com.br (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=site%3Acom.br+intext%3A%22phpMyAdmin%22+ext%3Atxt"
+                    }
+                  ]
+                },
+                {
+                  "name": "Documents",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Search for CPF in public text files (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=cpf+%22SE_ALVO%22+%22123456789%22+ext"
+                    },
+                    {
+                      "name": "Search for Contact or Data in XLS files (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=%22cpf%7Ccnpj%7Cemail%7Crg%7Ccontato%22+ext%3Axls+%22SE_ALVO%22"
+                    }
+                  ]
+                },
+                {
+                  "name": "Gov.br",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Documents",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Search for PDF on Brazilian Armed Forces Website (D)",
+                          "type": "url",
+                          "url": "https://www.google.com/search?q=site%3Amil.br"
+                        },
+                        {
+                          "name": "Search for XLS on Brazilian Government Website (D)",
+                          "type": "url",
+                          "url": "https://www.google.com/search?q=site%3Agov.br"
+                        },
+                        {
+                          "name": "Search for PHP Files on Brazilian Armed Forces Website (D)",
+                          "type": "url",
+                          "url": "https://www.google.com/search?q=inurl:%22mil.br%22+ext:php"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Brazilian Armed Forces Website (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=site%3Amil.br"
+                    },
+                    {
+                      "name": "Brazilian Government Website (D)",
+                      "type": "url",
+                      "url": "https://www.google.com/search?q=site%3Agov.br"
+                    }
+                  ]
+                },
+                {
+                  "name": "Brazilian Server Search",
+                  "type": "url",
+                  "url": "https://www.shodan.io/search?query=country%3A%22BR%22"
+                }
+              ]
+            }        
         ]}
       ]
     },
