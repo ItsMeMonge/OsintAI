@@ -49,4 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or feedback:
 - Twitter: [@monge_ai](https://twitter.com/monge_ai)
+- Website: [TheMonge.com](https://themonge.com/contact)
 - GitHub Issues: [Create an issue](https://github.com/ItsMeMonge/Osint.AI/issues)
