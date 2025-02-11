@@ -1785,11 +1785,6 @@
             "name": "SauceNAO",
             "type": "url",
             "url": "https://saucenao.com/"
-          },
-          {
-            "name": "Picarta",
-            "type": "url",
-            "url": "https://picarta.ai/"
           }]
         },
         {
@@ -1950,6 +1945,11 @@
             "name": "Online OCR",
             "type": "url",
             "url": "http://www.onlineocr.net/"
+          },
+          {
+            "name": "Yandex OCR",
+            "type": "url",
+            "url": "https://translate.yandex.com/ocr"
           }]
         },
         {
@@ -2070,6 +2070,11 @@
             "name": "Hooktube",
             "type": "url",
             "url": "https://hooktube.com/"
+          },
+          {
+            "name": "YouTube Transcript",
+            "type": "url",
+            "url": "https://youtubetranscript.com/"
           },
           {
             "name": "yasiv-youtube",
@@ -6951,6 +6956,11 @@
             "url": "https://copilot.microsoft.com/"
           },
           {
+            "name": "You AI",
+            "type": "url",
+            "url": "https://you.com/"
+          },
+          {
             "name": "Claude AI",
             "type": "url", 
             "url": "https://claude.ai/"
@@ -6969,6 +6979,36 @@
             "name": "Perplexity AI",
             "type": "url",
             "url": "https://www.perplexity.ai/"
+          }]
+      },
+      {
+        "name": "Search Engine",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Consensus",
+            "type": "url",
+            "url": "https://consensus.app/"
+          },
+          {
+            "name": "Search Whisper",
+            "type": "url",
+            "url": "https://searchwhisperer.ai/"
+          },
+          {
+            "name": "Phind",
+            "type": "url",
+            "url": "https://www.phind.com/"
+          },
+          {
+            "name": "Strellar",
+            "type": "url",
+            "url": "https://stellar.chatastra.ai/"
+          },
+          {
+            "name": "Exa AI (R)",
+            "type": "url",
+            "url": "https://exa.ai/"
           }
         ]
       },
@@ -6977,11 +7017,20 @@
         "type": "folder",
         "children": [
           {
+            "name": "EarthKit",
+            "type": "url",
+            "url": "https://earthkit.app/sift"
+          },
+          {
+            "name": "Picarta AI",
+            "type": "url",
+            "url": "https://picarta.ai/"
+          },
+          {
             "name": "GeoSpy AI",
             "type": "url",
             "url": "https://geospy.web.app/"
-          }
-        ]
+          }]
       },
       {
         "name": "DorkGPT",
@@ -7511,6 +7560,11 @@
           "name": "Fake Name Generator",
           "type": "url",
           "url": "http://www.fakenamegenerator.com/"
+        },
+        {
+          "name": "ImgnAI",
+          "type": "url",
+          "url": "https://app.imgnai.com/"
         },
         {
           "name": "Fake Identity Generator",
