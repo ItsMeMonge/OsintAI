@@ -21,7 +21,7 @@ This project is an adaptation and enhancement of [Osintframework.com](https://os
 
 ## Getting Started
 
-1. Visit the website at [osint.themonge.com](https://osint.themonge.com)
+1. Visit the website at [itsmemonge.github.io/OsintAI/](https://itsmemonge.github.io/OsintAI/)
 2. Select your preferred language from the dropdown menu
 3. Navigate through categories using the interactive tree
 4. Click on resources to access them directly
